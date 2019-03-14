@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0b40c115-ee9e-4e0b-8a7d-7e7780a92b4f" name="Default" comment="" />
+    <list default="true" id="0b40c115-ee9e-4e0b-8a7d-7e7780a92b4f" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/problem/ClumsyFactorial.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/problem/DecodeWays.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/problem/LargestSumAfterKNegations.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/problem/LongestSubstring.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/problem/LargestSumAfterKNegationsTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/problem/LongestSubstringTest.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/8/08c33cc99cb845ce2a7bba4da77503bf8d4b1bdb" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/8/08c33cc99cb845ce2a7bba4da77503bf8d4b1bdb" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -25,7 +35,376 @@
     </projectState>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file leaf-file-name="LongestSubstring.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/problem/LongestSubstring.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="305">
+              <caret line="34" column="19" lean-forward="false" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LargestSumAfterKNegations.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/problem/LargestSumAfterKNegations.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ClumsyFactorial.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/problem/ClumsyFactorial.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="268">
+              <caret line="18" column="2" lean-forward="true" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="2" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DecodeWays.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/problem/DecodeWays.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="40" lean-forward="true" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DecodeWaysTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/problem/DecodeWaysTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1139">
+              <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LargestSumAfterKNegationsTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/problem/LargestSumAfterKNegationsTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="367">
+              <caret line="35" column="32" lean-forward="false" selection-start-line="35" selection-start-column="32" selection-end-line="35" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PriorityQueue.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/util/PriorityQueue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="137">
+              <caret line="348" column="13" lean-forward="false" selection-start-line="348" selection-start-column="13" selection-end-line="348" selection-end-column="13" />
+              <folding>
+                <element signature="e#0#32360#0" expanded="true" />
+                <element signature="docComment;class#PriorityQueue#0" expanded="true" />
+                <element signature="docComment;field#queue#0;class#PriorityQueue#0" expanded="true" />
+                <element signature="docComment;field#size#0;class#PriorityQueue#0" expanded="true" />
+                <element signature="docComment;field#comparator#0;class#PriorityQueue#0" expanded="true" />
+                <element signature="docComment;field#modCount#0;class#PriorityQueue#0" expanded="true" />
+                <element signature="docComment;method#PriorityQueue#0;class#PriorityQueue#0" expanded="true" />
+                <element signature="e#4277#4278#0" expanded="true" />
+                <element signature="e#4329#4330#0" expanded="true" />
+                <element signature="docComment;method#PriorityQueue#1;class#PriorityQueue#0" expanded="true" />
+                <element signature="e#4748#4749#0" expanded="true" />
+                <element signature="e#4791#4792#0" expanded="true" />
+                <element signature="docComment;method#PriorityQueue#2;class#PriorityQueue#0" expanded="true" />
+                <element signature="e#5256#5257#0" expanded="true" />
+                <element signature="e#5314#5315#0" expanded="true" />
+                <element signature="docComment;method#PriorityQueue#3;class#PriorityQueue#0" expanded="true" />
+                <element signature="e#5986#6051#0" expanded="true" />
+                <element signature="docComment;method#PriorityQueue#4;class#PriorityQueue#0" expanded="true" />
+                <element signature="e#7121#7151#0" expanded="true" />
+                <element signature="docComment;method#PriorityQueue#5;class#PriorityQueue#0" expanded="true" />
+                <element signature="e#8410#8440#0" expanded="true" />
+                <element signature="docComment;method#PriorityQueue#6;class#PriorityQueue#0" expanded="true" />
+                <element signature="e#9224#9254#0" expanded="true" />
+                <element signature="docComment;method#initFromCollection#0;class#PriorityQueue#0" expanded="true" />
+                <element signature="docComment;field#MAX_ARRAY_SIZE#0;class#PriorityQueue#0" expanded="true" />
+                <element signature="docComment;method#grow#0;class#PriorityQueue#0" expanded="true" />
+                <element signature="docComment;method#add#0;class#PriorityQueue#0" expanded="true" />
+                <element signature="e#12127#12128#0" expanded="true" />
+                <element signature="e#12158#12159#0" expanded="true" />
+                <element signature="docComment;method#offer#0;class#PriorityQueue#0" expanded="true" />
+                <element signature="e#12918#12948#0" expanded="true" />
+                <element signature="e#12969#12970#0" expanded="true" />
+                <element signature="e#13025#13026#0" expanded="true" />
+                <element signature="docComment;method#remove#0;class#PriorityQueue#0" expanded="true" />
+                <element signature="docComment;method#removeEq#0;class#PriorityQueue#0" expanded="true" />
+                <element signature="docComment;method#contains#0;class#PriorityQueue#0" expanded="true" />
+                <element signature="e#14861#14862#0" expanded="true" />
+                <element signature="e#14900#14901#0" expanded="true" />
+                <element signature="docComment;method#toArray#0;class#PriorityQueue#0" expanded="true" />
+                <element signature="e#15477#15478#0" expanded="true" />
+                <element signature="e#15526#15527#0" expanded="true" />
+                <element signature="docComment;method#toArray#1;class#PriorityQueue#0" expanded="true" />
+                <element signature="e#17416#17446#0" expanded="true" />
+                <element signature="docComment;method#iterator#0;class#PriorityQueue#0" expanded="true" />
+                <element signature="e#18065#18066#0" expanded="true" />
+                <element signature="e#18097#18098#0" expanded="true" />
+                <element signature="class#Itr#0;class#PriorityQueue#0" expanded="true" />
+                <element signature="docComment;field#cursor#0;class#Itr#0;class#PriorityQueue#0" expanded="true" />
+                <element signature="docComment;field#lastRet#0;class#Itr#0;class#PriorityQueue#0" expanded="true" />
+                <element signature="docComment;field#forgetMeNot#0;class#Itr#0;class#PriorityQueue#0" expanded="true" />
+                <element signature="docComment;field#lastRetElt#0;class#Itr#0;class#PriorityQueue#0" expanded="true" />
+                <element signature="docComment;field#expectedModCount#0;class#Itr#0;class#PriorityQueue#0" expanded="true" />
+                <element signature="e#19843#19873#0" expanded="true" />
+                <element signature="e#21183#21184#0" expanded="true" />
+                <element signature="e#21210#21211#0" expanded="true" />
+                <element signature="docComment;method#clear#0;class#PriorityQueue#0" expanded="true" />
+                <element signature="e#21489#21519#0" expanded="true" />
+                <element signature="docComment;method#removeAt#0;class#PriorityQueue#0" expanded="true" />
+                <element signature="e#22390#22420#0" expanded="true" />
+                <element signature="docComment;method#siftUp#0;class#PriorityQueue#0" expanded="true" />
+                <element signature="e#23564#23594#0" expanded="true" />
+                <element signature="e#23969#23999#0" expanded="true" />
+                <element signature="docComment;method#siftDown#0;class#PriorityQueue#0" expanded="true" />
+                <element signature="e#24768#24798#0" expanded="true" />
+                <element signature="e#25452#25482#0" expanded="true" />
+                <element signature="docComment;method#heapify#0;class#PriorityQueue#0" expanded="true" />
+                <element signature="e#26178#26208#0" expanded="true" />
+                <element signature="docComment;method#comparator#0;class#PriorityQueue#0" expanded="true" />
+                <element signature="e#26782#26783#0" expanded="true" />
+                <element signature="e#26815#26816#0" expanded="true" />
+                <element signature="docComment;method#writeObject#0;class#PriorityQueue#0" expanded="true" />
+                <element signature="docComment;method#readObject#0;class#PriorityQueue#0" expanded="true" />
+                <element signature="e#28142#28201#0" expanded="true" />
+                <element signature="docComment;method#spliterator#0;class#PriorityQueue#0" expanded="true" />
+                <element signature="e#28862#28863#0" expanded="true" />
+                <element signature="e#28932#28933#0" expanded="true" />
+                <element signature="class#PriorityQueueSpliterator#0;class#PriorityQueue#0" expanded="true" />
+                <element signature="docComment;method#PriorityQueueSpliterator#0;class#PriorityQueueSpliterator#0;class#PriorityQueue#0" expanded="true" />
+                <element signature="e#30323#30353#0" expanded="true" />
+                <element signature="e#31742#31772#1" expanded="true" />
+                <element signature="e#32159#32160#0" expanded="true" />
+                <element signature="e#32217#32218#0" expanded="true" />
+                <element signature="e#32257#32258#0" expanded="true" />
+                <element signature="e#32350#32351#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="String.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/lang/String.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="463">
+              <caret line="2866" column="18" lean-forward="false" selection-start-line="2866" selection-start-column="18" selection-end-line="2866" selection-end-column="18" />
+              <folding>
+                <element signature="e#0#124311#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="docComment;class#String#0" expanded="true" />
+                <element signature="docComment;field#value#0;class#String#0" expanded="true" />
+                <element signature="docComment;field#hash#0;class#String#0" expanded="true" />
+                <element signature="docComment;field#serialVersionUID#0;class#String#0" expanded="true" />
+                <element signature="docComment;field#serialPersistentFields#0;class#String#0" expanded="true" />
+                <element signature="docComment;method#String#0;class#String#0" expanded="true" />
+                <element signature="e#4677#4678#0" expanded="true" />
+                <element signature="e#4714#4715#0" expanded="true" />
+                <element signature="docComment;method#String#1;class#String#0" expanded="true" />
+                <element signature="docComment;method#String#2;class#String#0" expanded="true" />
+                <element signature="e#5687#5688#0" expanded="true" />
+                <element signature="e#5750#5751#0" expanded="true" />
+                <element signature="docComment;method#String#3;class#String#0" expanded="true" />
+                <element signature="docComment;method#String#4;class#String#0" expanded="true" />
+                <element signature="docComment;method#String#5;class#String#0" expanded="true" />
+                <element signature="docComment;method#String#6;class#String#0" expanded="true" />
+                <element signature="e#13098#13099#0" expanded="true" />
+                <element signature="e#13150#13151#0" expanded="true" />
+                <element signature="docComment;method#String#7;class#String#0" expanded="true" />
+                <element signature="docComment;method#String#8;class#String#0" expanded="true" />
+                <element signature="docComment;method#String#9;class#String#0" expanded="true" />
+                <element signature="docComment;method#String#10;class#String#0" expanded="true" />
+                <element signature="e#18781#18782#0" expanded="true" />
+                <element signature="e#18834#18835#0" expanded="true" />
+                <element signature="docComment;method#String#11;class#String#0" expanded="true" />
+                <element signature="docComment;method#String#12;class#String#0" expanded="true" />
+                <element signature="e#20727#20728#0" expanded="true" />
+                <element signature="e#20771#20772#0" expanded="true" />
+                <element signature="docComment;method#String#13;class#String#0" expanded="true" />
+                <element signature="docComment;method#String#14;class#String#0" expanded="true" />
+                <element signature="e#21961#21962#0" expanded="true" />
+                <element signature="e#22041#22042#0" expanded="true" />
+                <element signature="docComment;method#length#0;class#String#0" expanded="true" />
+                <element signature="e#22786#22787#0" expanded="true" />
+                <element signature="e#22821#22822#0" expanded="true" />
+                <element signature="docComment;method#isEmpty#0;class#String#0" expanded="true" />
+                <element signature="e#23072#23073#0" expanded="true" />
+                <element signature="e#23112#23113#0" expanded="true" />
+                <element signature="docComment;method#charAt#0;class#String#0" expanded="true" />
+                <element signature="docComment;method#codePointAt#0;class#String#0" expanded="true" />
+                <element signature="docComment;method#codePointBefore#0;class#String#0" expanded="true" />
+                <element signature="docComment;method#codePointCount#0;class#String#0" expanded="true" />
+                <element signature="docComment;method#offsetByCodePoints#0;class#String#0" expanded="true" />
+                <element signature="docComment;method#getChars#0;class#String#0" expanded="true" />
+                <element signature="e#29462#29463#0" expanded="true" />
+                <element signature="e#29533#29534#0" expanded="true" />
+                <element signature="docComment;method#getChars#1;class#String#0" expanded="true" />
+                <element signature="docComment;method#getBytes#0;class#String#0" expanded="true" />
+                <element signature="docComment;method#getBytes#1;class#String#0" expanded="true" />
+                <element signature="docComment;method#getBytes#2;class#String#0" expanded="true" />
+                <element signature="docComment;method#getBytes#3;class#String#0" expanded="true" />
+                <element signature="e#36393#36394#0" expanded="true" />
+                <element signature="e#36459#36460#0" expanded="true" />
+                <element signature="docComment;method#equals#0;class#String#0" expanded="true" />
+                <element signature="docComment;method#contentEquals#0;class#String#0" expanded="true" />
+                <element signature="e#38369#38370#0" expanded="true" />
+                <element signature="e#38423#38424#0" expanded="true" />
+                <element signature="docComment;method#contentEquals#1;class#String#0" expanded="true" />
+                <element signature="docComment;method#equalsIgnoreCase#0;class#String#0" expanded="true" />
+                <element signature="docComment;method#compareTo#0;class#String#0" expanded="true" />
+                <element signature="docComment;field#CASE_INSENSITIVE_ORDER#0;class#String#0" expanded="true" />
+                <element signature="class#CaseInsensitiveComparator#0;class#String#0" expanded="true" />
+                <element signature="docComment;method#readResolve#0;class#CaseInsensitiveComparator#0;class#String#0" expanded="true" />
+                <element signature="docComment;method#compareToIgnoreCase#0;class#String#0" expanded="true" />
+                <element signature="e#47538#47539#0" expanded="true" />
+                <element signature="e#47602#47603#0" expanded="true" />
+                <element signature="docComment;method#regionMatches#0;class#String#0" expanded="true" />
+                <element signature="docComment;method#regionMatches#1;class#String#0" expanded="true" />
+                <element signature="e#52980#53033#0" expanded="true" />
+                <element signature="e#53402#53466#0" expanded="true" />
+                <element signature="docComment;method#startsWith#0;class#String#0" expanded="true" />
+                <element signature="docComment;method#startsWith#1;class#String#0" expanded="true" />
+                <element signature="e#55800#55801#0" expanded="true" />
+                <element signature="e#55844#55845#0" expanded="true" />
+                <element signature="docComment;method#endsWith#0;class#String#0" expanded="true" />
+                <element signature="e#56437#56438#0" expanded="true" />
+                <element signature="e#56514#56515#0" expanded="true" />
+                <element signature="docComment;method#hashCode#0;class#String#0" expanded="true" />
+                <element signature="docComment;method#indexOf#0;class#String#0" expanded="true" />
+                <element signature="e#58481#58482#0" expanded="true" />
+                <element signature="e#58518#58519#0" expanded="true" />
+                <element signature="docComment;method#indexOf#1;class#String#0" expanded="true" />
+                <element signature="e#60775#60829#0" expanded="true" />
+                <element signature="docComment;method#indexOfSupplementary#0;class#String#0" expanded="true" />
+                <element signature="docComment;method#lastIndexOf#0;class#String#0" expanded="true" />
+                <element signature="e#62860#62861#0" expanded="true" />
+                <element signature="e#62916#62917#0" expanded="true" />
+                <element signature="docComment;method#lastIndexOf#1;class#String#0" expanded="true" />
+                <element signature="e#64802#64856#0" expanded="true" />
+                <element signature="docComment;method#lastIndexOfSupplementary#0;class#String#0" expanded="true" />
+                <element signature="docComment;method#indexOf#2;class#String#0" expanded="true" />
+                <element signature="e#66457#66458#0" expanded="true" />
+                <element signature="e#66495#66496#0" expanded="true" />
+                <element signature="docComment;method#indexOf#3;class#String#0" expanded="true" />
+                <element signature="docComment;method#indexOf#4;class#String#0" expanded="true" />
+                <element signature="docComment;method#indexOf#5;class#String#0" expanded="true" />
+                <element signature="docComment;method#lastIndexOf#2;class#String#0" expanded="true" />
+                <element signature="e#70749#70750#0" expanded="true" />
+                <element signature="e#70802#70803#0" expanded="true" />
+                <element signature="docComment;method#lastIndexOf#3;class#String#0" expanded="true" />
+                <element signature="docComment;method#lastIndexOf#4;class#String#0" expanded="true" />
+                <element signature="docComment;method#lastIndexOf#5;class#String#0" expanded="true" />
+                <element signature="docComment;method#substring#0;class#String#0" expanded="true" />
+                <element signature="docComment;method#substring#1;class#String#0" expanded="true" />
+                <element signature="docComment;method#subSequence#0;class#String#0" expanded="true" />
+                <element signature="e#78240#78241#0" expanded="true" />
+                <element signature="e#78299#78300#0" expanded="true" />
+                <element signature="docComment;method#concat#0;class#String#0" expanded="true" />
+                <element signature="docComment;method#replace#0;class#String#0" expanded="true" />
+                <element signature="docComment;method#matches#0;class#String#0" expanded="true" />
+                <element signature="e#82616#82617#0" expanded="true" />
+                <element signature="e#82667#82668#0" expanded="true" />
+                <element signature="docComment;method#contains#0;class#String#0" expanded="true" />
+                <element signature="e#82971#82972#0" expanded="true" />
+                <element signature="e#83020#83021#0" expanded="true" />
+                <element signature="docComment;method#replaceFirst#0;class#String#0" expanded="true" />
+                <element signature="e#84699#84700#0" expanded="true" />
+                <element signature="e#84784#84785#0" expanded="true" />
+                <element signature="docComment;method#replaceAll#0;class#String#0" expanded="true" />
+                <element signature="e#86462#86463#0" expanded="true" />
+                <element signature="e#86545#86546#0" expanded="true" />
+                <element signature="docComment;method#replace#1;class#String#0" expanded="true" />
+                <element signature="docComment;method#split#0;class#String#0" expanded="true" />
+                <element signature="e#92274#92285#0" expanded="true" />
+                <element signature="docComment;method#split#1;class#String#0" expanded="true" />
+                <element signature="e#94598#94599#0" expanded="true" />
+                <element signature="e#94636#94637#0" expanded="true" />
+                <element signature="docComment;method#join#0;class#String#0" expanded="true" />
+                <element signature="docComment;method#join#1;class#String#0" expanded="true" />
+                <element signature="docComment;method#toLowerCase#0;class#String#0" expanded="true" />
+                <element signature="docComment;method#toLowerCase#1;class#String#0" expanded="true" />
+                <element signature="e#104675#104676#0" expanded="true" />
+                <element signature="e#104730#104731#0" expanded="true" />
+                <element signature="docComment;method#toUpperCase#0;class#String#0" expanded="true" />
+                <element signature="docComment;method#toUpperCase#1;class#String#0" expanded="true" />
+                <element signature="e#111196#111197#0" expanded="true" />
+                <element signature="e#111251#111252#0" expanded="true" />
+                <element signature="docComment;method#trim#0;class#String#0" expanded="true" />
+                <element signature="docComment;method#toString#0;class#String#0" expanded="true" />
+                <element signature="e#113343#113344#0" expanded="true" />
+                <element signature="e#113370#113371#0" expanded="true" />
+                <element signature="docComment;method#toCharArray#0;class#String#0" expanded="true" />
+                <element signature="docComment;method#format#0;class#String#0" expanded="true" />
+                <element signature="e#115588#115589#0" expanded="true" />
+                <element signature="e#115658#115659#0" expanded="true" />
+                <element signature="docComment;method#format#1;class#String#0" expanded="true" />
+                <element signature="e#117413#117414#0" expanded="true" />
+                <element signature="e#117484#117485#0" expanded="true" />
+                <element signature="docComment;method#valueOf#0;class#String#0" expanded="true" />
+                <element signature="e#117893#117894#0" expanded="true" />
+                <element signature="e#117955#117956#0" expanded="true" />
+                <element signature="docComment;method#valueOf#1;class#String#0" expanded="true" />
+                <element signature="e#118405#118406#0" expanded="true" />
+                <element signature="e#118444#118445#0" expanded="true" />
+                <element signature="docComment;method#valueOf#2;class#String#0" expanded="true" />
+                <element signature="e#119456#119457#0" expanded="true" />
+                <element signature="e#119510#119511#0" expanded="true" />
+                <element signature="docComment;method#copyValueOf#0;class#String#0" expanded="true" />
+                <element signature="e#120159#120160#0" expanded="true" />
+                <element signature="e#120213#120214#0" expanded="true" />
+                <element signature="docComment;method#copyValueOf#1;class#String#0" expanded="true" />
+                <element signature="e#120482#120483#0" expanded="true" />
+                <element signature="e#120521#120522#0" expanded="true" />
+                <element signature="docComment;method#valueOf#3;class#String#0" expanded="true" />
+                <element signature="e#120889#120890#0" expanded="true" />
+                <element signature="e#120932#120933#0" expanded="true" />
+                <element signature="docComment;method#valueOf#4;class#String#0" expanded="true" />
+                <element signature="docComment;method#valueOf#5;class#String#0" expanded="true" />
+                <element signature="e#121727#121728#0" expanded="true" />
+                <element signature="e#121769#121770#0" expanded="true" />
+                <element signature="docComment;method#valueOf#6;class#String#0" expanded="true" />
+                <element signature="e#122184#122185#0" expanded="true" />
+                <element signature="e#122223#122224#0" expanded="true" />
+                <element signature="docComment;method#valueOf#7;class#String#0" expanded="true" />
+                <element signature="e#122645#122646#0" expanded="true" />
+                <element signature="e#122685#122686#0" expanded="true" />
+                <element signature="docComment;method#valueOf#8;class#String#0" expanded="true" />
+                <element signature="e#123115#123116#0" expanded="true" />
+                <element signature="e#123156#123157#0" expanded="true" />
+                <element signature="docComment;method#intern#0;class#String#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LongestSubstringTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/problem/LongestSubstringTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="217">
+              <caret line="58" column="0" lean-forward="false" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -34,6 +413,9 @@
         <option value="JUnit4 Test Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
@@ -379,6 +761,13 @@
         <option value="$PROJECT_DIR$/src/main/java/problem/ListNode.java" />
         <option value="$PROJECT_DIR$/src/test/java/problem/AddTwoNumbersTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/problem/AddTwoNumbers.java" />
+        <option value="$PROJECT_DIR$/src/main/java/problem/LongestSubstring.java" />
+        <option value="$PROJECT_DIR$/src/test/java/problem/LongestSubstringTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/problem/LargestSumAfterKNegations.java" />
+        <option value="$PROJECT_DIR$/src/test/java/problem/LargestSumAfterKNegationsTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/problem/ClumsyFactorial.java" />
+        <option value="$PROJECT_DIR$/src/test/java/problem/DecodeWaysTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/problem/DecodeWays.java" />
       </list>
     </option>
   </component>
@@ -392,6 +781,9 @@
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="873" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -408,8 +800,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -453,8 +847,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -499,7 +891,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.AddTwoNumbersTest.합친다2">
+  <component name="RunManager" selected="JUnit.DecodeWaysTest">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -519,81 +911,6 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="" />
       <envs />
-    </configuration>
-    <configuration name="AddTwoNumbersTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="problem.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="problem_test" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="problem" />
-      <option name="MAIN_CLASS_NAME" value="problem.AddTwoNumbersTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="AddTwoNumbersTest.합친다" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="problem.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="problem_test" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="problem" />
-      <option name="MAIN_CLASS_NAME" value="problem.AddTwoNumbersTest" />
-      <option name="METHOD_NAME" value="합친다" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="AddTwoNumbersTest.합친다2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="problem.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="problem_test" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="problem" />
-      <option name="MAIN_CLASS_NAME" value="problem.AddTwoNumbersTest" />
-      <option name="METHOD_NAME" value="합친다2" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
     </configuration>
     <configuration name="AddTwoNumbersTest.쓴다2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
@@ -670,6 +987,131 @@
       <envs />
       <patterns />
     </configuration>
+    <configuration name="DecodeWaysTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="problem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="problem_test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="problem" />
+      <option name="MAIN_CLASS_NAME" value="problem.DecodeWaysTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="DecodeWaysTest.input10" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="problem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="problem_test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="problem" />
+      <option name="MAIN_CLASS_NAME" value="problem.DecodeWaysTest" />
+      <option name="METHOD_NAME" value="input10" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="DecodeWaysTest.input2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="problem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="problem_test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="problem" />
+      <option name="MAIN_CLASS_NAME" value="problem.DecodeWaysTest" />
+      <option name="METHOD_NAME" value="input2" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="DecodeWaysTest.input3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="problem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="problem_test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="problem" />
+      <option name="MAIN_CLASS_NAME" value="problem.DecodeWaysTest" />
+      <option name="METHOD_NAME" value="input3" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="DecodeWaysTest.input6" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="problem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="problem_test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="problem" />
+      <option name="MAIN_CLASS_NAME" value="problem.DecodeWaysTest" />
+      <option name="METHOD_NAME" value="input6" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -731,19 +1173,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.AddTwoNumbersTest.쓴다" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.AddTwoNumbersTest.쓴다2" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.AddTwoNumbersTest.합친다" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.AddTwoNumbersTest" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.AddTwoNumbersTest.합친다2" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.DecodeWaysTest" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.DecodeWaysTest.input6" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.DecodeWaysTest.input3" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.DecodeWaysTest.input2" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.DecodeWaysTest.input10" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.AddTwoNumbersTest.합친다2" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.AddTwoNumbersTest" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.AddTwoNumbersTest.합친다" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.AddTwoNumbersTest.쓴다2" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.AddTwoNumbersTest.쓴다" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.DecodeWaysTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.DecodeWaysTest.input10" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.DecodeWaysTest.input3" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.DecodeWaysTest.input2" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.DecodeWaysTest.input6" />
       </list>
     </recent_temporary>
   </component>
@@ -773,47 +1215,49 @@
       <updated>1551959488086</updated>
       <workItem from="1551959495004" duration="956000" />
       <workItem from="1551960545324" duration="1765000" />
-      <workItem from="1551962350070" duration="2877000" />
+      <workItem from="1551962350070" duration="3057000" />
+      <workItem from="1552309477083" duration="17356000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="AddTwoNumbersTest - 2019.03.07 at 22h 19m 36s.xml">
-      <configuration name="AddTwoNumbersTest" configurationId="JUnit" />
+    <history-entry file="DecodeWaysTest - 2019.03.13 at 23h 20m 30s.xml">
+      <configuration name="DecodeWaysTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AddTwoNumbersTest_합친다 - 2019.03.07 at 22h 18m 08s.xml">
-      <configuration name="AddTwoNumbersTest.합친다" configurationId="JUnit" />
+    <history-entry file="DecodeWaysTest - 2019.03.13 at 23h 22m 25s.xml">
+      <configuration name="DecodeWaysTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AddTwoNumbersTest_합친다 - 2019.03.07 at 22h 18m 24s.xml">
-      <configuration name="AddTwoNumbersTest.합친다" configurationId="JUnit" />
+    <history-entry file="DecodeWaysTest - 2019.03.13 at 23h 24m 03s.xml">
+      <configuration name="DecodeWaysTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AddTwoNumbersTest_합친다2 - 2019.03.07 at 22h 18m 37s.xml">
-      <configuration name="AddTwoNumbersTest.합친다2" configurationId="JUnit" />
+    <history-entry file="DecodeWaysTest_input10 - 2019.03.13 at 23h 10m 18s.xml">
+      <configuration name="DecodeWaysTest.input10" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AddTwoNumbersTest_합친다2 - 2019.03.07 at 22h 19m 14s.xml">
-      <configuration name="AddTwoNumbersTest.합친다2" configurationId="JUnit" />
+    <history-entry file="DecodeWaysTest_input2 - 2019.03.13 at 22h 57m 23s.xml">
+      <configuration name="DecodeWaysTest.input2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AddTwoNumbersTest_합친다2 - 2019.03.07 at 22h 19m 58s.xml">
-      <configuration name="AddTwoNumbersTest.합친다2" configurationId="JUnit" />
+    <history-entry file="DecodeWaysTest_input2 - 2019.03.13 at 23h 10m 12s.xml">
+      <configuration name="DecodeWaysTest.input2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AddTwoNumbersTest_합친다2 - 2019.03.07 at 22h 21m 08s.xml">
-      <configuration name="AddTwoNumbersTest.합친다2" configurationId="JUnit" />
+    <history-entry file="DecodeWaysTest_input3 - 2019.03.13 at 22h 57m 18s.xml">
+      <configuration name="DecodeWaysTest.input3" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AddTwoNumbersTest_합친다2 - 2019.03.07 at 22h 21m 34s.xml">
-      <configuration name="AddTwoNumbersTest.합친다2" configurationId="JUnit" />
+    <history-entry file="DecodeWaysTest_input3 - 2019.03.13 at 23h 10m 16s.xml">
+      <configuration name="DecodeWaysTest.input3" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AddTwoNumbersTest_합친다2 - 2019.03.07 at 22h 24m 00s.xml">
-      <configuration name="AddTwoNumbersTest.합친다2" configurationId="JUnit" />
+    <history-entry file="DecodeWaysTest_input6 - 2019.03.13 at 22h 57m 11s.xml">
+      <configuration name="DecodeWaysTest.input6" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="AddTwoNumbersTest_합친다2 - 2019.03.07 at 22h 24m 58s.xml">
-      <configuration name="AddTwoNumbersTest.합친다2" configurationId="JUnit" />
+    <history-entry file="DecodeWaysTest_input6 - 2019.03.13 at 23h 10m 09s.xml">
+      <configuration name="DecodeWaysTest.input6" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5598000" />
+    <option name="totallyTimeSpent" value="23134000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="873" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -829,18 +1273,18 @@
       <window_info id="News Feed" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42536327" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3659181" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="SBT Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32893" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39365917" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28269485" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32893" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15307583" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32893" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.113018595" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Reviews" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="SonarLint" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -897,8 +1341,14 @@
           <properties />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/problem/LongestSubstring.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="3" />
+      <option name="time" value="12" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -922,6 +1372,55 @@
         </SizePreset>
       </list>
     </option>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>arr[i] + (i-2 &lt; 0 ? 1 : arr[i-2])</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>arr[i] + i-2 &lt; 0 ? 1 : arr[i-2]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>makeSum(arr, j, i)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>arr[j][a] * arr[a+1][i]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>sum + arr[j][a] * arr[a+1][i]</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>makeSum(arr, j, i) - minus</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>s.charAt(i + 1)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>s.charAt(i)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>s.charAt(i)-48</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
   </component>
   <component name="designer.settings">
     <option name="autodetectServerAddress" value="true" />
@@ -951,7 +1450,7 @@
         <state relative-caret-position="390">
           <caret line="29" column="30" lean-forward="true" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="22" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -961,8 +1460,8 @@
         <state relative-caret-position="135">
           <caret line="11" column="9" lean-forward="false" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
           <folding>
-            <element signature="e#97#98#0" expanded="true" />
-            <element signature="e#120#121#0" expanded="true" />
+            <element signature="e#97#98#0" expanded="false" />
+            <element signature="e#120#121#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -986,8 +1485,8 @@
         <state relative-caret-position="135">
           <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
           <folding>
-            <element signature="e#97#98#0" expanded="true" />
-            <element signature="e#120#121#0" expanded="true" />
+            <element signature="e#97#98#0" expanded="false" />
+            <element signature="e#120#121#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1005,9 +1504,51 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/jre/lib/rt.jar!/sun/reflect/NativeMethodAccessorImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="33" column="33" lean-forward="false" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/problem/AddTwoNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="32" column="20" lean-forward="false" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
+          <folding>
+            <element signature="e#901#902#0" expanded="true" />
+            <element signature="e#943#944#0" expanded="true" />
+            <element signature="e#983#984#0" expanded="true" />
+            <element signature="e#1026#1027#0" expanded="true" />
+            <element signature="docComment;method#readFromListNode#0;class#AddTwoNumbers#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/problem/AddTwoNumbersTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="21" column="24" lean-forward="false" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/problem/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="6" lean-forward="false" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+          <folding>
+            <element signature="e#97#98#0" expanded="false" />
+            <element signature="e#120#121#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
+        <state relative-caret-position="463">
           <caret line="2866" column="18" lean-forward="false" selection-start-line="2866" selection-start-column="18" selection-end-line="2866" selection-end-column="18" />
           <folding>
             <element signature="e#0#124311#0" expanded="true" />
@@ -1196,46 +1737,162 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/jre/lib/rt.jar!/sun/reflect/NativeMethodAccessorImpl.class">
+    <entry file="file://$PROJECT_DIR$/src/test/java/problem/LongestSubstringTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="33" column="33" lean-forward="false" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/problem/AddTwoNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="32" column="20" lean-forward="false" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
-          <folding>
-            <element signature="e#901#902#0" expanded="true" />
-            <element signature="e#943#944#0" expanded="true" />
-            <element signature="e#983#984#0" expanded="true" />
-            <element signature="e#1026#1027#0" expanded="true" />
-            <element signature="docComment;method#readFromListNode#0;class#AddTwoNumbers#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/problem/AddTwoNumbersTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="21" column="24" lean-forward="false" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+        <state relative-caret-position="217">
+          <caret line="58" column="0" lean-forward="false" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/problem/ListNode.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/problem/LongestSubstring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="34" column="19" lean-forward="false" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/util/PriorityQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="348" column="13" lean-forward="false" selection-start-line="348" selection-start-column="13" selection-end-line="348" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#32360#0" expanded="true" />
+            <element signature="docComment;class#PriorityQueue#0" expanded="true" />
+            <element signature="docComment;field#queue#0;class#PriorityQueue#0" expanded="true" />
+            <element signature="docComment;field#size#0;class#PriorityQueue#0" expanded="true" />
+            <element signature="docComment;field#comparator#0;class#PriorityQueue#0" expanded="true" />
+            <element signature="docComment;field#modCount#0;class#PriorityQueue#0" expanded="true" />
+            <element signature="docComment;method#PriorityQueue#0;class#PriorityQueue#0" expanded="true" />
+            <element signature="e#4277#4278#0" expanded="true" />
+            <element signature="e#4329#4330#0" expanded="true" />
+            <element signature="docComment;method#PriorityQueue#1;class#PriorityQueue#0" expanded="true" />
+            <element signature="e#4748#4749#0" expanded="true" />
+            <element signature="e#4791#4792#0" expanded="true" />
+            <element signature="docComment;method#PriorityQueue#2;class#PriorityQueue#0" expanded="true" />
+            <element signature="e#5256#5257#0" expanded="true" />
+            <element signature="e#5314#5315#0" expanded="true" />
+            <element signature="docComment;method#PriorityQueue#3;class#PriorityQueue#0" expanded="true" />
+            <element signature="e#5986#6051#0" expanded="true" />
+            <element signature="docComment;method#PriorityQueue#4;class#PriorityQueue#0" expanded="true" />
+            <element signature="e#7121#7151#0" expanded="true" />
+            <element signature="docComment;method#PriorityQueue#5;class#PriorityQueue#0" expanded="true" />
+            <element signature="e#8410#8440#0" expanded="true" />
+            <element signature="docComment;method#PriorityQueue#6;class#PriorityQueue#0" expanded="true" />
+            <element signature="e#9224#9254#0" expanded="true" />
+            <element signature="docComment;method#initFromCollection#0;class#PriorityQueue#0" expanded="true" />
+            <element signature="docComment;field#MAX_ARRAY_SIZE#0;class#PriorityQueue#0" expanded="true" />
+            <element signature="docComment;method#grow#0;class#PriorityQueue#0" expanded="true" />
+            <element signature="docComment;method#add#0;class#PriorityQueue#0" expanded="true" />
+            <element signature="e#12127#12128#0" expanded="true" />
+            <element signature="e#12158#12159#0" expanded="true" />
+            <element signature="docComment;method#offer#0;class#PriorityQueue#0" expanded="true" />
+            <element signature="e#12918#12948#0" expanded="true" />
+            <element signature="e#12969#12970#0" expanded="true" />
+            <element signature="e#13025#13026#0" expanded="true" />
+            <element signature="docComment;method#remove#0;class#PriorityQueue#0" expanded="true" />
+            <element signature="docComment;method#removeEq#0;class#PriorityQueue#0" expanded="true" />
+            <element signature="docComment;method#contains#0;class#PriorityQueue#0" expanded="true" />
+            <element signature="e#14861#14862#0" expanded="true" />
+            <element signature="e#14900#14901#0" expanded="true" />
+            <element signature="docComment;method#toArray#0;class#PriorityQueue#0" expanded="true" />
+            <element signature="e#15477#15478#0" expanded="true" />
+            <element signature="e#15526#15527#0" expanded="true" />
+            <element signature="docComment;method#toArray#1;class#PriorityQueue#0" expanded="true" />
+            <element signature="e#17416#17446#0" expanded="true" />
+            <element signature="docComment;method#iterator#0;class#PriorityQueue#0" expanded="true" />
+            <element signature="e#18065#18066#0" expanded="true" />
+            <element signature="e#18097#18098#0" expanded="true" />
+            <element signature="class#Itr#0;class#PriorityQueue#0" expanded="true" />
+            <element signature="docComment;field#cursor#0;class#Itr#0;class#PriorityQueue#0" expanded="true" />
+            <element signature="docComment;field#lastRet#0;class#Itr#0;class#PriorityQueue#0" expanded="true" />
+            <element signature="docComment;field#forgetMeNot#0;class#Itr#0;class#PriorityQueue#0" expanded="true" />
+            <element signature="docComment;field#lastRetElt#0;class#Itr#0;class#PriorityQueue#0" expanded="true" />
+            <element signature="docComment;field#expectedModCount#0;class#Itr#0;class#PriorityQueue#0" expanded="true" />
+            <element signature="e#19843#19873#0" expanded="true" />
+            <element signature="e#21183#21184#0" expanded="true" />
+            <element signature="e#21210#21211#0" expanded="true" />
+            <element signature="docComment;method#clear#0;class#PriorityQueue#0" expanded="true" />
+            <element signature="e#21489#21519#0" expanded="true" />
+            <element signature="docComment;method#removeAt#0;class#PriorityQueue#0" expanded="true" />
+            <element signature="e#22390#22420#0" expanded="true" />
+            <element signature="docComment;method#siftUp#0;class#PriorityQueue#0" expanded="true" />
+            <element signature="e#23564#23594#0" expanded="true" />
+            <element signature="e#23969#23999#0" expanded="true" />
+            <element signature="docComment;method#siftDown#0;class#PriorityQueue#0" expanded="true" />
+            <element signature="e#24768#24798#0" expanded="true" />
+            <element signature="e#25452#25482#0" expanded="true" />
+            <element signature="docComment;method#heapify#0;class#PriorityQueue#0" expanded="true" />
+            <element signature="e#26178#26208#0" expanded="true" />
+            <element signature="docComment;method#comparator#0;class#PriorityQueue#0" expanded="true" />
+            <element signature="e#26782#26783#0" expanded="true" />
+            <element signature="e#26815#26816#0" expanded="true" />
+            <element signature="docComment;method#writeObject#0;class#PriorityQueue#0" expanded="true" />
+            <element signature="docComment;method#readObject#0;class#PriorityQueue#0" expanded="true" />
+            <element signature="e#28142#28201#0" expanded="true" />
+            <element signature="docComment;method#spliterator#0;class#PriorityQueue#0" expanded="true" />
+            <element signature="e#28862#28863#0" expanded="true" />
+            <element signature="e#28932#28933#0" expanded="true" />
+            <element signature="class#PriorityQueueSpliterator#0;class#PriorityQueue#0" expanded="true" />
+            <element signature="docComment;method#PriorityQueueSpliterator#0;class#PriorityQueueSpliterator#0;class#PriorityQueue#0" expanded="true" />
+            <element signature="e#30323#30353#0" expanded="true" />
+            <element signature="e#31742#31772#1" expanded="true" />
+            <element signature="e#32159#32160#0" expanded="true" />
+            <element signature="e#32217#32218#0" expanded="true" />
+            <element signature="e#32257#32258#0" expanded="true" />
+            <element signature="e#32350#32351#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/problem/LargestSumAfterKNegationsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="35" column="32" lean-forward="false" selection-start-line="35" selection-start-column="32" selection-end-line="35" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/problem/LargestSumAfterKNegations.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="2" column="6" lean-forward="false" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="23" />
           <folding>
-            <element signature="e#97#98#0" expanded="true" />
-            <element signature="e#120#121#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/problem/ClumsyFactorial.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="18" column="2" lean-forward="true" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/problem/DecodeWaysTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1139">
+          <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/problem/DecodeWays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="40" lean-forward="true" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
+          <folding />
         </state>
       </provider>
     </entry>
