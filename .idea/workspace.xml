@@ -1,22 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="0b40c115-ee9e-4e0b-8a7d-7e7780a92b4f" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/problem/ClumsyFactorial.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/problem/DecodeWays.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/problem/LargestSumAfterKNegations.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/problem/LongestSubstring.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/problem/LargestSumAfterKNegationsTest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/problem/LongestSubstringTest.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/8/08c33cc99cb845ce2a7bba4da77503bf8d4b1bdb" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/8/08c33cc99cb845ce2a7bba4da77503bf8d4b1bdb" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.0/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.0/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.0/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.0/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.0/taskHistory/fileSnapshots.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.0/taskHistory/fileSnapshots.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.0/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.0/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.0/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.0/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/problem/AddTwoNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/problem/ClumsyFactorial.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/problem/DecodeWays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/problem/LargestSumAfterKNegations.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/problem/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/problem/LongestSubstring.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/problem/AddTwoNumbersTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/problem/DecodeWaysTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/problem/LargestSumAfterKNegationsTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/problem/LongestSubstringTest.class" beforeDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/.gradle/" />
-    <ignored path="$PROJECT_DIR$/build/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,378 +39,6 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
-  </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="LongestSubstring.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/problem/LongestSubstring.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="305">
-              <caret line="34" column="19" lean-forward="false" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LargestSumAfterKNegations.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/problem/LargestSumAfterKNegations.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="23" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ClumsyFactorial.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/problem/ClumsyFactorial.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="268">
-              <caret line="18" column="2" lean-forward="true" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="2" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DecodeWays.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/problem/DecodeWays.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="40" lean-forward="true" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DecodeWaysTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/problem/DecodeWaysTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1139">
-              <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LargestSumAfterKNegationsTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/problem/LargestSumAfterKNegationsTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="367">
-              <caret line="35" column="32" lean-forward="false" selection-start-line="35" selection-start-column="32" selection-end-line="35" selection-end-column="32" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PriorityQueue.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/util/PriorityQueue.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="137">
-              <caret line="348" column="13" lean-forward="false" selection-start-line="348" selection-start-column="13" selection-end-line="348" selection-end-column="13" />
-              <folding>
-                <element signature="e#0#32360#0" expanded="true" />
-                <element signature="docComment;class#PriorityQueue#0" expanded="true" />
-                <element signature="docComment;field#queue#0;class#PriorityQueue#0" expanded="true" />
-                <element signature="docComment;field#size#0;class#PriorityQueue#0" expanded="true" />
-                <element signature="docComment;field#comparator#0;class#PriorityQueue#0" expanded="true" />
-                <element signature="docComment;field#modCount#0;class#PriorityQueue#0" expanded="true" />
-                <element signature="docComment;method#PriorityQueue#0;class#PriorityQueue#0" expanded="true" />
-                <element signature="e#4277#4278#0" expanded="true" />
-                <element signature="e#4329#4330#0" expanded="true" />
-                <element signature="docComment;method#PriorityQueue#1;class#PriorityQueue#0" expanded="true" />
-                <element signature="e#4748#4749#0" expanded="true" />
-                <element signature="e#4791#4792#0" expanded="true" />
-                <element signature="docComment;method#PriorityQueue#2;class#PriorityQueue#0" expanded="true" />
-                <element signature="e#5256#5257#0" expanded="true" />
-                <element signature="e#5314#5315#0" expanded="true" />
-                <element signature="docComment;method#PriorityQueue#3;class#PriorityQueue#0" expanded="true" />
-                <element signature="e#5986#6051#0" expanded="true" />
-                <element signature="docComment;method#PriorityQueue#4;class#PriorityQueue#0" expanded="true" />
-                <element signature="e#7121#7151#0" expanded="true" />
-                <element signature="docComment;method#PriorityQueue#5;class#PriorityQueue#0" expanded="true" />
-                <element signature="e#8410#8440#0" expanded="true" />
-                <element signature="docComment;method#PriorityQueue#6;class#PriorityQueue#0" expanded="true" />
-                <element signature="e#9224#9254#0" expanded="true" />
-                <element signature="docComment;method#initFromCollection#0;class#PriorityQueue#0" expanded="true" />
-                <element signature="docComment;field#MAX_ARRAY_SIZE#0;class#PriorityQueue#0" expanded="true" />
-                <element signature="docComment;method#grow#0;class#PriorityQueue#0" expanded="true" />
-                <element signature="docComment;method#add#0;class#PriorityQueue#0" expanded="true" />
-                <element signature="e#12127#12128#0" expanded="true" />
-                <element signature="e#12158#12159#0" expanded="true" />
-                <element signature="docComment;method#offer#0;class#PriorityQueue#0" expanded="true" />
-                <element signature="e#12918#12948#0" expanded="true" />
-                <element signature="e#12969#12970#0" expanded="true" />
-                <element signature="e#13025#13026#0" expanded="true" />
-                <element signature="docComment;method#remove#0;class#PriorityQueue#0" expanded="true" />
-                <element signature="docComment;method#removeEq#0;class#PriorityQueue#0" expanded="true" />
-                <element signature="docComment;method#contains#0;class#PriorityQueue#0" expanded="true" />
-                <element signature="e#14861#14862#0" expanded="true" />
-                <element signature="e#14900#14901#0" expanded="true" />
-                <element signature="docComment;method#toArray#0;class#PriorityQueue#0" expanded="true" />
-                <element signature="e#15477#15478#0" expanded="true" />
-                <element signature="e#15526#15527#0" expanded="true" />
-                <element signature="docComment;method#toArray#1;class#PriorityQueue#0" expanded="true" />
-                <element signature="e#17416#17446#0" expanded="true" />
-                <element signature="docComment;method#iterator#0;class#PriorityQueue#0" expanded="true" />
-                <element signature="e#18065#18066#0" expanded="true" />
-                <element signature="e#18097#18098#0" expanded="true" />
-                <element signature="class#Itr#0;class#PriorityQueue#0" expanded="true" />
-                <element signature="docComment;field#cursor#0;class#Itr#0;class#PriorityQueue#0" expanded="true" />
-                <element signature="docComment;field#lastRet#0;class#Itr#0;class#PriorityQueue#0" expanded="true" />
-                <element signature="docComment;field#forgetMeNot#0;class#Itr#0;class#PriorityQueue#0" expanded="true" />
-                <element signature="docComment;field#lastRetElt#0;class#Itr#0;class#PriorityQueue#0" expanded="true" />
-                <element signature="docComment;field#expectedModCount#0;class#Itr#0;class#PriorityQueue#0" expanded="true" />
-                <element signature="e#19843#19873#0" expanded="true" />
-                <element signature="e#21183#21184#0" expanded="true" />
-                <element signature="e#21210#21211#0" expanded="true" />
-                <element signature="docComment;method#clear#0;class#PriorityQueue#0" expanded="true" />
-                <element signature="e#21489#21519#0" expanded="true" />
-                <element signature="docComment;method#removeAt#0;class#PriorityQueue#0" expanded="true" />
-                <element signature="e#22390#22420#0" expanded="true" />
-                <element signature="docComment;method#siftUp#0;class#PriorityQueue#0" expanded="true" />
-                <element signature="e#23564#23594#0" expanded="true" />
-                <element signature="e#23969#23999#0" expanded="true" />
-                <element signature="docComment;method#siftDown#0;class#PriorityQueue#0" expanded="true" />
-                <element signature="e#24768#24798#0" expanded="true" />
-                <element signature="e#25452#25482#0" expanded="true" />
-                <element signature="docComment;method#heapify#0;class#PriorityQueue#0" expanded="true" />
-                <element signature="e#26178#26208#0" expanded="true" />
-                <element signature="docComment;method#comparator#0;class#PriorityQueue#0" expanded="true" />
-                <element signature="e#26782#26783#0" expanded="true" />
-                <element signature="e#26815#26816#0" expanded="true" />
-                <element signature="docComment;method#writeObject#0;class#PriorityQueue#0" expanded="true" />
-                <element signature="docComment;method#readObject#0;class#PriorityQueue#0" expanded="true" />
-                <element signature="e#28142#28201#0" expanded="true" />
-                <element signature="docComment;method#spliterator#0;class#PriorityQueue#0" expanded="true" />
-                <element signature="e#28862#28863#0" expanded="true" />
-                <element signature="e#28932#28933#0" expanded="true" />
-                <element signature="class#PriorityQueueSpliterator#0;class#PriorityQueue#0" expanded="true" />
-                <element signature="docComment;method#PriorityQueueSpliterator#0;class#PriorityQueueSpliterator#0;class#PriorityQueue#0" expanded="true" />
-                <element signature="e#30323#30353#0" expanded="true" />
-                <element signature="e#31742#31772#1" expanded="true" />
-                <element signature="e#32159#32160#0" expanded="true" />
-                <element signature="e#32217#32218#0" expanded="true" />
-                <element signature="e#32257#32258#0" expanded="true" />
-                <element signature="e#32350#32351#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="String.java" pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/lang/String.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="463">
-              <caret line="2866" column="18" lean-forward="false" selection-start-line="2866" selection-start-column="18" selection-end-line="2866" selection-end-column="18" />
-              <folding>
-                <element signature="e#0#124311#0" expanded="true" />
-                <element signature="imports" expanded="true" />
-                <element signature="docComment;class#String#0" expanded="true" />
-                <element signature="docComment;field#value#0;class#String#0" expanded="true" />
-                <element signature="docComment;field#hash#0;class#String#0" expanded="true" />
-                <element signature="docComment;field#serialVersionUID#0;class#String#0" expanded="true" />
-                <element signature="docComment;field#serialPersistentFields#0;class#String#0" expanded="true" />
-                <element signature="docComment;method#String#0;class#String#0" expanded="true" />
-                <element signature="e#4677#4678#0" expanded="true" />
-                <element signature="e#4714#4715#0" expanded="true" />
-                <element signature="docComment;method#String#1;class#String#0" expanded="true" />
-                <element signature="docComment;method#String#2;class#String#0" expanded="true" />
-                <element signature="e#5687#5688#0" expanded="true" />
-                <element signature="e#5750#5751#0" expanded="true" />
-                <element signature="docComment;method#String#3;class#String#0" expanded="true" />
-                <element signature="docComment;method#String#4;class#String#0" expanded="true" />
-                <element signature="docComment;method#String#5;class#String#0" expanded="true" />
-                <element signature="docComment;method#String#6;class#String#0" expanded="true" />
-                <element signature="e#13098#13099#0" expanded="true" />
-                <element signature="e#13150#13151#0" expanded="true" />
-                <element signature="docComment;method#String#7;class#String#0" expanded="true" />
-                <element signature="docComment;method#String#8;class#String#0" expanded="true" />
-                <element signature="docComment;method#String#9;class#String#0" expanded="true" />
-                <element signature="docComment;method#String#10;class#String#0" expanded="true" />
-                <element signature="e#18781#18782#0" expanded="true" />
-                <element signature="e#18834#18835#0" expanded="true" />
-                <element signature="docComment;method#String#11;class#String#0" expanded="true" />
-                <element signature="docComment;method#String#12;class#String#0" expanded="true" />
-                <element signature="e#20727#20728#0" expanded="true" />
-                <element signature="e#20771#20772#0" expanded="true" />
-                <element signature="docComment;method#String#13;class#String#0" expanded="true" />
-                <element signature="docComment;method#String#14;class#String#0" expanded="true" />
-                <element signature="e#21961#21962#0" expanded="true" />
-                <element signature="e#22041#22042#0" expanded="true" />
-                <element signature="docComment;method#length#0;class#String#0" expanded="true" />
-                <element signature="e#22786#22787#0" expanded="true" />
-                <element signature="e#22821#22822#0" expanded="true" />
-                <element signature="docComment;method#isEmpty#0;class#String#0" expanded="true" />
-                <element signature="e#23072#23073#0" expanded="true" />
-                <element signature="e#23112#23113#0" expanded="true" />
-                <element signature="docComment;method#charAt#0;class#String#0" expanded="true" />
-                <element signature="docComment;method#codePointAt#0;class#String#0" expanded="true" />
-                <element signature="docComment;method#codePointBefore#0;class#String#0" expanded="true" />
-                <element signature="docComment;method#codePointCount#0;class#String#0" expanded="true" />
-                <element signature="docComment;method#offsetByCodePoints#0;class#String#0" expanded="true" />
-                <element signature="docComment;method#getChars#0;class#String#0" expanded="true" />
-                <element signature="e#29462#29463#0" expanded="true" />
-                <element signature="e#29533#29534#0" expanded="true" />
-                <element signature="docComment;method#getChars#1;class#String#0" expanded="true" />
-                <element signature="docComment;method#getBytes#0;class#String#0" expanded="true" />
-                <element signature="docComment;method#getBytes#1;class#String#0" expanded="true" />
-                <element signature="docComment;method#getBytes#2;class#String#0" expanded="true" />
-                <element signature="docComment;method#getBytes#3;class#String#0" expanded="true" />
-                <element signature="e#36393#36394#0" expanded="true" />
-                <element signature="e#36459#36460#0" expanded="true" />
-                <element signature="docComment;method#equals#0;class#String#0" expanded="true" />
-                <element signature="docComment;method#contentEquals#0;class#String#0" expanded="true" />
-                <element signature="e#38369#38370#0" expanded="true" />
-                <element signature="e#38423#38424#0" expanded="true" />
-                <element signature="docComment;method#contentEquals#1;class#String#0" expanded="true" />
-                <element signature="docComment;method#equalsIgnoreCase#0;class#String#0" expanded="true" />
-                <element signature="docComment;method#compareTo#0;class#String#0" expanded="true" />
-                <element signature="docComment;field#CASE_INSENSITIVE_ORDER#0;class#String#0" expanded="true" />
-                <element signature="class#CaseInsensitiveComparator#0;class#String#0" expanded="true" />
-                <element signature="docComment;method#readResolve#0;class#CaseInsensitiveComparator#0;class#String#0" expanded="true" />
-                <element signature="docComment;method#compareToIgnoreCase#0;class#String#0" expanded="true" />
-                <element signature="e#47538#47539#0" expanded="true" />
-                <element signature="e#47602#47603#0" expanded="true" />
-                <element signature="docComment;method#regionMatches#0;class#String#0" expanded="true" />
-                <element signature="docComment;method#regionMatches#1;class#String#0" expanded="true" />
-                <element signature="e#52980#53033#0" expanded="true" />
-                <element signature="e#53402#53466#0" expanded="true" />
-                <element signature="docComment;method#startsWith#0;class#String#0" expanded="true" />
-                <element signature="docComment;method#startsWith#1;class#String#0" expanded="true" />
-                <element signature="e#55800#55801#0" expanded="true" />
-                <element signature="e#55844#55845#0" expanded="true" />
-                <element signature="docComment;method#endsWith#0;class#String#0" expanded="true" />
-                <element signature="e#56437#56438#0" expanded="true" />
-                <element signature="e#56514#56515#0" expanded="true" />
-                <element signature="docComment;method#hashCode#0;class#String#0" expanded="true" />
-                <element signature="docComment;method#indexOf#0;class#String#0" expanded="true" />
-                <element signature="e#58481#58482#0" expanded="true" />
-                <element signature="e#58518#58519#0" expanded="true" />
-                <element signature="docComment;method#indexOf#1;class#String#0" expanded="true" />
-                <element signature="e#60775#60829#0" expanded="true" />
-                <element signature="docComment;method#indexOfSupplementary#0;class#String#0" expanded="true" />
-                <element signature="docComment;method#lastIndexOf#0;class#String#0" expanded="true" />
-                <element signature="e#62860#62861#0" expanded="true" />
-                <element signature="e#62916#62917#0" expanded="true" />
-                <element signature="docComment;method#lastIndexOf#1;class#String#0" expanded="true" />
-                <element signature="e#64802#64856#0" expanded="true" />
-                <element signature="docComment;method#lastIndexOfSupplementary#0;class#String#0" expanded="true" />
-                <element signature="docComment;method#indexOf#2;class#String#0" expanded="true" />
-                <element signature="e#66457#66458#0" expanded="true" />
-                <element signature="e#66495#66496#0" expanded="true" />
-                <element signature="docComment;method#indexOf#3;class#String#0" expanded="true" />
-                <element signature="docComment;method#indexOf#4;class#String#0" expanded="true" />
-                <element signature="docComment;method#indexOf#5;class#String#0" expanded="true" />
-                <element signature="docComment;method#lastIndexOf#2;class#String#0" expanded="true" />
-                <element signature="e#70749#70750#0" expanded="true" />
-                <element signature="e#70802#70803#0" expanded="true" />
-                <element signature="docComment;method#lastIndexOf#3;class#String#0" expanded="true" />
-                <element signature="docComment;method#lastIndexOf#4;class#String#0" expanded="true" />
-                <element signature="docComment;method#lastIndexOf#5;class#String#0" expanded="true" />
-                <element signature="docComment;method#substring#0;class#String#0" expanded="true" />
-                <element signature="docComment;method#substring#1;class#String#0" expanded="true" />
-                <element signature="docComment;method#subSequence#0;class#String#0" expanded="true" />
-                <element signature="e#78240#78241#0" expanded="true" />
-                <element signature="e#78299#78300#0" expanded="true" />
-                <element signature="docComment;method#concat#0;class#String#0" expanded="true" />
-                <element signature="docComment;method#replace#0;class#String#0" expanded="true" />
-                <element signature="docComment;method#matches#0;class#String#0" expanded="true" />
-                <element signature="e#82616#82617#0" expanded="true" />
-                <element signature="e#82667#82668#0" expanded="true" />
-                <element signature="docComment;method#contains#0;class#String#0" expanded="true" />
-                <element signature="e#82971#82972#0" expanded="true" />
-                <element signature="e#83020#83021#0" expanded="true" />
-                <element signature="docComment;method#replaceFirst#0;class#String#0" expanded="true" />
-                <element signature="e#84699#84700#0" expanded="true" />
-                <element signature="e#84784#84785#0" expanded="true" />
-                <element signature="docComment;method#replaceAll#0;class#String#0" expanded="true" />
-                <element signature="e#86462#86463#0" expanded="true" />
-                <element signature="e#86545#86546#0" expanded="true" />
-                <element signature="docComment;method#replace#1;class#String#0" expanded="true" />
-                <element signature="docComment;method#split#0;class#String#0" expanded="true" />
-                <element signature="e#92274#92285#0" expanded="true" />
-                <element signature="docComment;method#split#1;class#String#0" expanded="true" />
-                <element signature="e#94598#94599#0" expanded="true" />
-                <element signature="e#94636#94637#0" expanded="true" />
-                <element signature="docComment;method#join#0;class#String#0" expanded="true" />
-                <element signature="docComment;method#join#1;class#String#0" expanded="true" />
-                <element signature="docComment;method#toLowerCase#0;class#String#0" expanded="true" />
-                <element signature="docComment;method#toLowerCase#1;class#String#0" expanded="true" />
-                <element signature="e#104675#104676#0" expanded="true" />
-                <element signature="e#104730#104731#0" expanded="true" />
-                <element signature="docComment;method#toUpperCase#0;class#String#0" expanded="true" />
-                <element signature="docComment;method#toUpperCase#1;class#String#0" expanded="true" />
-                <element signature="e#111196#111197#0" expanded="true" />
-                <element signature="e#111251#111252#0" expanded="true" />
-                <element signature="docComment;method#trim#0;class#String#0" expanded="true" />
-                <element signature="docComment;method#toString#0;class#String#0" expanded="true" />
-                <element signature="e#113343#113344#0" expanded="true" />
-                <element signature="e#113370#113371#0" expanded="true" />
-                <element signature="docComment;method#toCharArray#0;class#String#0" expanded="true" />
-                <element signature="docComment;method#format#0;class#String#0" expanded="true" />
-                <element signature="e#115588#115589#0" expanded="true" />
-                <element signature="e#115658#115659#0" expanded="true" />
-                <element signature="docComment;method#format#1;class#String#0" expanded="true" />
-                <element signature="e#117413#117414#0" expanded="true" />
-                <element signature="e#117484#117485#0" expanded="true" />
-                <element signature="docComment;method#valueOf#0;class#String#0" expanded="true" />
-                <element signature="e#117893#117894#0" expanded="true" />
-                <element signature="e#117955#117956#0" expanded="true" />
-                <element signature="docComment;method#valueOf#1;class#String#0" expanded="true" />
-                <element signature="e#118405#118406#0" expanded="true" />
-                <element signature="e#118444#118445#0" expanded="true" />
-                <element signature="docComment;method#valueOf#2;class#String#0" expanded="true" />
-                <element signature="e#119456#119457#0" expanded="true" />
-                <element signature="e#119510#119511#0" expanded="true" />
-                <element signature="docComment;method#copyValueOf#0;class#String#0" expanded="true" />
-                <element signature="e#120159#120160#0" expanded="true" />
-                <element signature="e#120213#120214#0" expanded="true" />
-                <element signature="docComment;method#copyValueOf#1;class#String#0" expanded="true" />
-                <element signature="e#120482#120483#0" expanded="true" />
-                <element signature="e#120521#120522#0" expanded="true" />
-                <element signature="docComment;method#valueOf#3;class#String#0" expanded="true" />
-                <element signature="e#120889#120890#0" expanded="true" />
-                <element signature="e#120932#120933#0" expanded="true" />
-                <element signature="docComment;method#valueOf#4;class#String#0" expanded="true" />
-                <element signature="docComment;method#valueOf#5;class#String#0" expanded="true" />
-                <element signature="e#121727#121728#0" expanded="true" />
-                <element signature="e#121769#121770#0" expanded="true" />
-                <element signature="docComment;method#valueOf#6;class#String#0" expanded="true" />
-                <element signature="e#122184#122185#0" expanded="true" />
-                <element signature="e#122223#122224#0" expanded="true" />
-                <element signature="docComment;method#valueOf#7;class#String#0" expanded="true" />
-                <element signature="e#122645#122646#0" expanded="true" />
-                <element signature="e#122685#122686#0" expanded="true" />
-                <element signature="docComment;method#valueOf#8;class#String#0" expanded="true" />
-                <element signature="e#123115#123116#0" expanded="true" />
-                <element signature="e#123156#123157#0" expanded="true" />
-                <element signature="docComment;method#intern#0;class#String#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LongestSubstringTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/problem/LongestSubstringTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="217">
-              <caret line="58" column="0" lean-forward="false" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -777,11 +411,15 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="873" />
   </component>
+  <component name="ProjectId" id="26ukt5khf1vX6cf6GXP5GvNZoJA" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
@@ -849,49 +487,47 @@
       </pane>
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="GoToClass.includeLibraries" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="GoToFile.includeJavaFiles" value="false" />
-    <property name="MemberChooser.sorted" value="false" />
-    <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.copyJavadoc" value="false" />
-    <property name="options.lastSelected" value="LeiningenProject" />
-    <property name="options.splitter.main.proportions" value="0.3" />
-    <property name="options.splitter.details.proportions" value="0.2" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.08108108" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="recentsLimit" value="5" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
-    <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.sorted" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="options.lastSelected" value="LeiningenProject" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.08108108" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateTestDialog.RecentsKey">
-      <recent name="problem" />
-    </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="problem" />
+    </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="JUnit.DecodeWaysTest">
+  <component name="RunManager" selected="Gradle.ContinuousSubarraySumTest.test">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -899,68 +535,56 @@
       <module />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="AddTwoNumbersTest.쓴다2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="problem.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="problem_test" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="problem" />
-      <option name="MAIN_CLASS_NAME" value="problem.AddTwoNumbersTest" />
-      <option name="METHOD_NAME" value="쓴다2" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
+    <configuration name="ContinuousSubarraySumTest.test" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;problem.ContinuousSubarraySumTest.test&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
     </configuration>
-    <configuration name="AddTwoNumbersTest.쓴다" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="problem.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="problem_test" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="problem" />
-      <option name="MAIN_CLASS_NAME" value="problem.AddTwoNumbersTest" />
-      <option name="METHOD_NAME" value="쓴다" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
+    <configuration name="MinStackTest.test" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;problem.MinStackTest.test&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
     </configuration>
     <configuration name="AddTwoNumbersTest.쓴다" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
@@ -988,204 +612,94 @@
       <patterns />
     </configuration>
     <configuration name="DecodeWaysTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+      <module name="problem_test" />
+      <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="problem.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <module name="problem_test" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="problem" />
       <option name="MAIN_CLASS_NAME" value="problem.DecodeWaysTest" />
-      <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="DecodeWaysTest.input10" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+      <module name="problem_test" />
+      <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="problem.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <module name="problem_test" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="problem" />
       <option name="MAIN_CLASS_NAME" value="problem.DecodeWaysTest" />
       <option name="METHOD_NAME" value="input10" />
       <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="DecodeWaysTest.input2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="problem.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="problem_test" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="problem" />
-      <option name="MAIN_CLASS_NAME" value="problem.DecodeWaysTest" />
-      <option name="METHOD_NAME" value="input2" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="DecodeWaysTest.input3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+      <module name="problem_test" />
+      <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="problem.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <module name="problem_test" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="problem" />
       <option name="MAIN_CLASS_NAME" value="problem.DecodeWaysTest" />
       <option name="METHOD_NAME" value="input3" />
       <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="DecodeWaysTest.input6" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="problem.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="problem_test" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="problem" />
-      <option name="MAIN_CLASS_NAME" value="problem.DecodeWaysTest" />
-      <option name="METHOD_NAME" value="input6" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration default="true" type="Remote" factoryName="Remote">
-      <option name="USE_SOCKET_TRANSPORT" value="true" />
-      <option name="SERVER_MODE" value="false" />
-      <option name="SHMEM_ADDRESS" value="javadebug" />
-      <option name="HOST" value="localhost" />
-      <option name="PORT" value="5005" />
-    </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
+    <configuration default="true" type="TestNG">
       <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="ANNOTATION_TYPE" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <envs />
       <properties />
       <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
       <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file id="idea.log" enabled="true" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.DecodeWaysTest" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.DecodeWaysTest.input6" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.DecodeWaysTest.input3" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.DecodeWaysTest.input2" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.DecodeWaysTest.input10" />
+    <list>
+      <item itemvalue="JUnit.DecodeWaysTest" />
+      <item itemvalue="JUnit.DecodeWaysTest.input3" />
+      <item itemvalue="JUnit.DecodeWaysTest.input10" />
+      <item itemvalue="Gradle.MinStackTest.test" />
+      <item itemvalue="Gradle.ContinuousSubarraySumTest.test" />
     </list>
     <recent_temporary>
-      <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.DecodeWaysTest" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.DecodeWaysTest.input10" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.DecodeWaysTest.input3" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.DecodeWaysTest.input2" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.DecodeWaysTest.input6" />
+      <list>
+        <item itemvalue="Gradle.ContinuousSubarraySumTest.test" />
+        <item itemvalue="Gradle.MinStackTest.test" />
+        <item itemvalue="JUnit.DecodeWaysTest" />
+        <item itemvalue="JUnit.DecodeWaysTest.input10" />
+        <item itemvalue="JUnit.DecodeWaysTest.input3" />
       </list>
     </recent_temporary>
   </component>
@@ -1200,9 +714,7 @@
       <projects_view />
     </option>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false">
-    <option name="remove_strategy" value="false" />
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -1217,6 +729,7 @@
       <workItem from="1551960545324" duration="1765000" />
       <workItem from="1551962350070" duration="3057000" />
       <workItem from="1552309477083" duration="17356000" />
+      <workItem from="1648281071681" duration="10185000" />
     </task>
     <servers />
   </component>
@@ -1301,7 +814,7 @@
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="VaadinDesigner.SizePresetsSettingsComponent">
     <option name="sizePresets">
@@ -1324,8 +837,16 @@
       </list>
     </option>
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1333,24 +854,24 @@
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/problem/AddTwoNumbers.java</url>
           <line>53</line>
-          <properties />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/problem/AddTwoNumbers.java</url>
           <line>7</line>
-          <properties />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/problem/LongestSubstring.java</url>
           <line>9</line>
-          <properties />
           <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="12" />
     </breakpoint-manager>
-    <watches-manager />
+    <watches-manager>
+      <configuration name="GradleRunConfiguration">
+        <watch expression="nums.length - i" language="JAVA" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="com.vaadin.designer2.intellij.settings.SizePresetsSettingsComponent">
     <option name="sizePresets">
