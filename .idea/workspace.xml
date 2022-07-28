@@ -5,23 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b40c115-ee9e-4e0b-8a7d-7e7780a92b4f" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/problem/LongestCommonPrefix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/problem/LongestCommonPrefixTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.0/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.0/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.0/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.0/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.0/taskHistory/fileSnapshots.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.0/taskHistory/fileSnapshots.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.0/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.0/taskHistory/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.0/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.0/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/problem_main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/problem_test.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/problem/AddTwoNumbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/problem/ClumsyFactorial.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/problem/DecodeWays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/problem/LargestSumAfterKNegations.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/problem/ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/problem/LongestSubstring.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/problem/AddTwoNumbersTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/problem/DecodeWaysTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/problem/LargestSumAfterKNegationsTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/problem/LongestSubstringTest.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -498,6 +497,8 @@
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.sorted" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
@@ -527,7 +528,7 @@
       <recent name="problem" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.ContinuousSubarraySumTest.test">
+  <component name="RunManager" selected="JUnit.LongestCommonPrefixTest.test">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -539,6 +540,29 @@
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
+    </configuration>
+    <configuration name="BinarySearchTreeTest.test" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;problem.BinarySearchTreeTest.test&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
     </configuration>
     <configuration name="ContinuousSubarraySumTest.test" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
@@ -586,31 +610,6 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="AddTwoNumbersTest.쓴다" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="problem.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="problem_test" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="problem" />
-      <option name="MAIN_CLASS_NAME" value="problem.AddTwoNumbersTest" />
-      <option name="METHOD_NAME" value="쓴다" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
     <configuration name="DecodeWaysTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="problem_test" />
       <extension name="coverage">
@@ -627,8 +626,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DecodeWaysTest.input10" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="problem_test" />
+    <configuration name="LongestCommonPrefixTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="problem.test" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="problem.*" />
@@ -636,27 +635,10 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="problem" />
-      <option name="MAIN_CLASS_NAME" value="problem.DecodeWaysTest" />
-      <option name="METHOD_NAME" value="input10" />
+      <option name="MAIN_CLASS_NAME" value="problem.LongestCommonPrefixTest" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DecodeWaysTest.input3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="problem_test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="problem.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="problem" />
-      <option name="MAIN_CLASS_NAME" value="problem.DecodeWaysTest" />
-      <option name="METHOD_NAME" value="input3" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -687,19 +669,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.DecodeWaysTest" />
-      <item itemvalue="JUnit.DecodeWaysTest.input3" />
-      <item itemvalue="JUnit.DecodeWaysTest.input10" />
       <item itemvalue="Gradle.MinStackTest.test" />
       <item itemvalue="Gradle.ContinuousSubarraySumTest.test" />
+      <item itemvalue="Gradle.BinarySearchTreeTest.test" />
+      <item itemvalue="JUnit.DecodeWaysTest" />
+      <item itemvalue="JUnit.LongestCommonPrefixTest.test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.LongestCommonPrefixTest.test" />
+        <item itemvalue="Gradle.BinarySearchTreeTest.test" />
         <item itemvalue="Gradle.ContinuousSubarraySumTest.test" />
         <item itemvalue="Gradle.MinStackTest.test" />
         <item itemvalue="JUnit.DecodeWaysTest" />
-        <item itemvalue="JUnit.DecodeWaysTest.input10" />
-        <item itemvalue="JUnit.DecodeWaysTest.input3" />
       </list>
     </recent_temporary>
   </component>
@@ -729,7 +711,9 @@
       <workItem from="1551960545324" duration="1765000" />
       <workItem from="1551962350070" duration="3057000" />
       <workItem from="1552309477083" duration="17356000" />
-      <workItem from="1648281071681" duration="10185000" />
+      <workItem from="1648281071681" duration="10407000" />
+      <workItem from="1648357850740" duration="3850000" />
+      <workItem from="1658974542328" duration="3378000" />
     </task>
     <servers />
   </component>
@@ -864,6 +848,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/problem/LongestSubstring.java</url>
           <line>9</line>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/problem/LongestCommonPrefix.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
