@@ -27,8 +27,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit4 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -690,7 +690,7 @@
       <workItem from="1648357850740" duration="3850000" />
       <workItem from="1658974542328" duration="6812000" />
       <workItem from="1658981625583" duration="4398000" />
-      <workItem from="1659063490931" duration="4527000" />
+      <workItem from="1659063490931" duration="7583000" />
     </task>
     <servers />
   </component>
