@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0b40c115-ee9e-4e0b-8a7d-7e7780a92b4f" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/problem/신고결과받기.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/problem/신고결과받기.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,8 +27,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JUnit4 Test Class" />
         <option value="Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
   </component>
@@ -522,7 +521,7 @@
       <recent name="problem" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.PathSumTest">
+  <component name="RunManager" selected="JUnit.주차요금Test.test2">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -568,40 +567,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PathSumTest.test4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="problem.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="problem.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="problem" />
-      <option name="MAIN_CLASS_NAME" value="problem.PathSumTest" />
-      <option name="METHOD_NAME" value="test4" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PathSumTest.test6" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="problem.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="problem.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="problem" />
-      <option name="MAIN_CLASS_NAME" value="problem.PathSumTest" />
-      <option name="METHOD_NAME" value="test6" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="PathSumTest.test7" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="problem.test" />
       <extension name="coverage">
@@ -613,6 +578,40 @@
       <option name="PACKAGE_NAME" value="problem" />
       <option name="MAIN_CLASS_NAME" value="problem.PathSumTest" />
       <option name="METHOD_NAME" value="test7" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="주차요금Test.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="problem.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="problem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="problem" />
+      <option name="MAIN_CLASS_NAME" value="problem.주차요금Test" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="주차요금Test.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="problem.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="problem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="problem" />
+      <option name="MAIN_CLASS_NAME" value="problem.주차요금Test" />
+      <option name="METHOD_NAME" value="test2" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
@@ -645,19 +644,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.PathSumTest.test4" />
       <item itemvalue="JUnit.PathSumTest" />
-      <item itemvalue="JUnit.PathSumTest.test6" />
       <item itemvalue="JUnit.PathSumTest.test2" />
       <item itemvalue="JUnit.PathSumTest.test7" />
+      <item itemvalue="JUnit.주차요금Test.test" />
+      <item itemvalue="JUnit.주차요금Test.test2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.주차요금Test.test2" />
+        <item itemvalue="JUnit.주차요금Test.test" />
         <item itemvalue="JUnit.PathSumTest" />
         <item itemvalue="JUnit.PathSumTest.test7" />
         <item itemvalue="JUnit.PathSumTest.test2" />
-        <item itemvalue="JUnit.PathSumTest.test6" />
-        <item itemvalue="JUnit.PathSumTest.test4" />
       </list>
     </recent_temporary>
   </component>
@@ -691,7 +690,7 @@
       <workItem from="1648357850740" duration="3850000" />
       <workItem from="1658974542328" duration="6812000" />
       <workItem from="1658981625583" duration="4398000" />
-      <workItem from="1659063490931" duration="9587000" />
+      <workItem from="1659063490931" duration="14437000" />
     </task>
     <servers />
   </component>
@@ -831,6 +830,21 @@
           <url>file://$PROJECT_DIR$/src/main/java/problem/LongestCommonPrefix.java</url>
           <line>13</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/problem/주차요금.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/problem/주차요금.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/problem/주차요금.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="13" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
