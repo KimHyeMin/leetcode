@@ -521,7 +521,7 @@
       <recent name="problem" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.주차요금Test.test2">
+  <component name="RunManager" selected="JUnit.파괴되지않은건물Test.test2">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -545,40 +545,6 @@
       <option name="PACKAGE_NAME" value="problem" />
       <option name="MAIN_CLASS_NAME" value="problem.PathSumTest" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PathSumTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="problem.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="problem.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="problem" />
-      <option name="MAIN_CLASS_NAME" value="problem.PathSumTest" />
-      <option name="METHOD_NAME" value="test2" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PathSumTest.test7" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="problem.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="problem.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="problem" />
-      <option name="MAIN_CLASS_NAME" value="problem.PathSumTest" />
-      <option name="METHOD_NAME" value="test7" />
-      <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -618,6 +584,40 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="파괴되지않은건물Test.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="problem.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="problem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="problem" />
+      <option name="MAIN_CLASS_NAME" value="problem.파괴되지않은건물Test" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="파괴되지않은건물Test.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="problem.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="problem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="problem" />
+      <option name="MAIN_CLASS_NAME" value="problem.파괴되지않은건물Test" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -645,18 +645,18 @@
     </configuration>
     <list>
       <item itemvalue="JUnit.PathSumTest" />
-      <item itemvalue="JUnit.PathSumTest.test2" />
-      <item itemvalue="JUnit.PathSumTest.test7" />
       <item itemvalue="JUnit.주차요금Test.test" />
       <item itemvalue="JUnit.주차요금Test.test2" />
+      <item itemvalue="JUnit.파괴되지않은건물Test.test" />
+      <item itemvalue="JUnit.파괴되지않은건물Test.test2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.파괴되지않은건물Test.test2" />
+        <item itemvalue="JUnit.파괴되지않은건물Test.test" />
         <item itemvalue="JUnit.주차요금Test.test2" />
         <item itemvalue="JUnit.주차요금Test.test" />
         <item itemvalue="JUnit.PathSumTest" />
-        <item itemvalue="JUnit.PathSumTest.test7" />
-        <item itemvalue="JUnit.PathSumTest.test2" />
       </list>
     </recent_temporary>
   </component>
@@ -690,7 +690,7 @@
       <workItem from="1648357850740" duration="3850000" />
       <workItem from="1658974542328" duration="6812000" />
       <workItem from="1658981625583" duration="4398000" />
-      <workItem from="1659063490931" duration="14437000" />
+      <workItem from="1659063490931" duration="36613000" />
     </task>
     <servers />
   </component>
@@ -845,6 +845,16 @@
           <url>file://$PROJECT_DIR$/src/main/java/problem/주차요금.java</url>
           <line>69</line>
           <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/problem/파괴되지않은건물.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/problem/파괴되지않은건물.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="27" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
