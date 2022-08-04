@@ -27,8 +27,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit4 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -524,12 +524,40 @@
       <recent name="problem" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.양과늑대Test.test">
+  <component name="RunManager" selected="JUnit.양궁대회2Test.test2">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
+    </configuration>
+    <configuration name="Problem1182" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problem.Problem1182" />
+      <module name="problem.main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="problem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Problem9095" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problem.Problem9095" />
+      <module name="problem.main" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="problem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -537,7 +565,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="양과늑대Test.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="양궁대회2Test.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="problem.test" />
       <extension name="coverage">
         <pattern>
@@ -546,15 +574,15 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="problem" />
-      <option name="MAIN_CLASS_NAME" value="problem.양과늑대Test" />
-      <option name="METHOD_NAME" value="test1" />
+      <option name="MAIN_CLASS_NAME" value="problem.양궁대회2Test" />
+      <option name="METHOD_NAME" value="test2" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="주차요금Test.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="양궁대회2Test.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="problem.test" />
       <extension name="coverage">
         <pattern>
@@ -563,7 +591,24 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="problem" />
-      <option name="MAIN_CLASS_NAME" value="problem.주차요금Test" />
+      <option name="MAIN_CLASS_NAME" value="problem.양궁대회2Test" />
+      <option name="METHOD_NAME" value="test3" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="양궁대회Test.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="problem.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="problem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="problem" />
+      <option name="MAIN_CLASS_NAME" value="problem.양궁대회Test" />
       <option name="METHOD_NAME" value="test2" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -582,57 +627,6 @@
       <option name="PACKAGE_NAME" value="problem" />
       <option name="MAIN_CLASS_NAME" value="problem.파괴되지않은건물Test" />
       <option name="METHOD_NAME" value="test2" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="양과늑대Test.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="problem.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="problem.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="problem" />
-      <option name="MAIN_CLASS_NAME" value="problem.양과늑대Test" />
-      <option name="METHOD_NAME" value="test" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="양과늑대Test.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="problem.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="problem.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="problem" />
-      <option name="MAIN_CLASS_NAME" value="problem.양과늑대Test" />
-      <option name="METHOD_NAME" value="test3" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="양과늑대Test.test5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="problem.test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="problem.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="problem" />
-      <option name="MAIN_CLASS_NAME" value="problem.양과늑대Test" />
-      <option name="METHOD_NAME" value="test5" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
@@ -682,19 +676,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.주차요금Test.test2" />
-      <item itemvalue="JUnit.양과늑대Test.test" />
-      <item itemvalue="JUnit.양과늑대Test.test1" />
-      <item itemvalue="JUnit.양과늑대Test.test3" />
-      <item itemvalue="JUnit.양과늑대Test.test5" />
+      <item itemvalue="JUnit.양궁대회2Test.test2" />
+      <item itemvalue="Application.Problem9095" />
+      <item itemvalue="Application.Problem1182" />
+      <item itemvalue="JUnit.양궁대회Test.test2" />
+      <item itemvalue="JUnit.양궁대회2Test.test3" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.양과늑대Test.test" />
-        <item itemvalue="JUnit.양과늑대Test.test5" />
-        <item itemvalue="JUnit.양과늑대Test.test3" />
-        <item itemvalue="JUnit.양과늑대Test.test1" />
-        <item itemvalue="JUnit.주차요금Test.test2" />
+        <item itemvalue="JUnit.양궁대회2Test.test2" />
+        <item itemvalue="JUnit.양궁대회2Test.test3" />
+        <item itemvalue="JUnit.양궁대회Test.test2" />
+        <item itemvalue="Application.Problem1182" />
+        <item itemvalue="Application.Problem9095" />
       </list>
     </recent_temporary>
   </component>
@@ -729,7 +723,7 @@
       <workItem from="1658974542328" duration="6812000" />
       <workItem from="1658981625583" duration="4398000" />
       <workItem from="1659063490931" duration="37460000" />
-      <workItem from="1659411152114" duration="29414000" />
+      <workItem from="1659411152114" duration="60424000" />
     </task>
     <servers />
   </component>
@@ -900,9 +894,24 @@
           <line>25</line>
           <option name="timeStamp" value="43" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/problem/양궁대회2.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/problem/양궁대회3.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="appeach[target]" language="JAVA" />
+        <watch expression="answer" language="JAVA" />
+        <watch expression="array" language="JAVA" />
+      </configuration>
       <configuration name="GradleRunConfiguration">
         <watch expression="nums.length - i" language="JAVA" />
       </configuration>
