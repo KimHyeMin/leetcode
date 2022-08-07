@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b40c115-ee9e-4e0b-8a7d-7e7780a92b4f" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/built.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/problem/Problem2606_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/problem/Problem2606_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -525,15 +529,15 @@
       <recent name="problem" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Problem2606_2">
+  <component name="RunManager" selected="Application.CyclicRotation">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
     </configuration>
-    <configuration name="Problem2098" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="problem.Problem2098" />
+    <configuration name="BinaryGap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problem.BinaryGap" />
       <module name="problem.main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -546,8 +550,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem24479" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="problem.Problem24479" />
+    <configuration name="CyclicRotation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problem.CyclicRotation" />
       <module name="problem.main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -560,8 +564,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem2606" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="problem.Problem2606" />
+    <configuration name="DemoSolution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problem.DemoSolution" />
       <module name="problem.main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -574,8 +578,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem2606_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="problem.Problem2606_2" />
+    <configuration name="Problem10026" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problem.Problem10026" />
       <module name="problem.main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -588,8 +592,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problem2644" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="problem.Problem2644" />
+    <configuration name="Problem11724" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problem.Problem11724" />
       <module name="problem.main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -634,19 +638,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Problem2098" />
-      <item itemvalue="Application.Problem24479" />
-      <item itemvalue="Application.Problem2644" />
-      <item itemvalue="Application.Problem2606" />
-      <item itemvalue="Application.Problem2606_2" />
+      <item itemvalue="Application.Problem11724" />
+      <item itemvalue="Application.Problem10026" />
+      <item itemvalue="Application.DemoSolution" />
+      <item itemvalue="Application.BinaryGap" />
+      <item itemvalue="Application.CyclicRotation" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Problem2606_2" />
-        <item itemvalue="Application.Problem2606" />
-        <item itemvalue="Application.Problem2644" />
-        <item itemvalue="Application.Problem24479" />
-        <item itemvalue="Application.Problem2098" />
+        <item itemvalue="Application.CyclicRotation" />
+        <item itemvalue="Application.BinaryGap" />
+        <item itemvalue="Application.DemoSolution" />
+        <item itemvalue="Application.Problem10026" />
+        <item itemvalue="Application.Problem11724" />
       </list>
     </recent_temporary>
   </component>
@@ -683,7 +687,7 @@
       <workItem from="1659063490931" duration="37460000" />
       <workItem from="1659411152114" duration="63898000" />
       <workItem from="1659576528955" duration="10025000" />
-      <workItem from="1659590212850" duration="2049000" />
+      <workItem from="1659590212850" duration="13838000" />
     </task>
     <servers />
   </component>
@@ -869,6 +873,26 @@
           <line>29</line>
           <option name="timeStamp" value="86" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/problem/problem2667.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/problem/problem2667.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/problem/BinaryGap.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/problem/CyclicRotation.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
@@ -883,6 +907,7 @@
       <configuration name="Application">
         <watch expression="dp" language="JAVA" />
         <watch expression="network" language="JAVA" />
+        <watch expression="apart" language="JAVA" />
       </configuration>
     </watches-manager>
   </component>
