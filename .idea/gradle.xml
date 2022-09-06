@@ -15,6 +15,16 @@
           </set>
         </option>
       </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/kotlin-practice" />
+        <option name="gradleJvm" value="jbr-11" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/kotlin-practice" />
+          </set>
+        </option>
+      </GradleProjectSettings>
     </option>
   </component>
 </project>
