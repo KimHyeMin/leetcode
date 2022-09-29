@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b40c115-ee9e-4e0b-8a7d-7e7780a92b4f" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/problem.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/problem/BinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/problem/BinarySearchTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/problem/LongestCommonPrefix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/problem/LongestCommonPrefix.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,8 +33,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JUnit4 Test Class" />
-        <option value="Class" />
         <option value="Kotlin Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -539,15 +537,15 @@
       <recent name="problem" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.Problem1010Kt">
+  <component name="RunManager" selected="Application.Problem1992">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
     </configuration>
-    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="problem.Test2" />
+    <configuration name="Problem1992" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problem.Problem1992" />
       <module name="problem.main" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -641,20 +639,20 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Test2" />
       <item itemvalue="Application.Test3" />
       <item itemvalue="Application.Test4" />
       <item itemvalue="Kotlin.Problem1009Kt" />
       <item itemvalue="Kotlin.Problem1010Kt" />
       <item itemvalue="Spring Boot.KotlinPracticeApplication" />
+      <item itemvalue="Application.Problem1992" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Problem1992" />
         <item itemvalue="Kotlin.Problem1010Kt" />
         <item itemvalue="Kotlin.Problem1009Kt" />
         <item itemvalue="Application.Test4" />
         <item itemvalue="Application.Test3" />
-        <item itemvalue="Application.Test2" />
       </list>
     </recent_temporary>
   </component>
@@ -695,7 +693,8 @@
       <workItem from="1659859496383" duration="6887000" />
       <workItem from="1662089413757" duration="346000" />
       <workItem from="1662089770979" duration="3579000" />
-      <workItem from="1662426274640" duration="4247000" />
+      <workItem from="1662426274640" duration="4568000" />
+      <workItem from="1664424167713" duration="5327000" />
     </task>
     <servers />
   </component>
@@ -833,7 +832,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/problem/LongestCommonPrefix.java</url>
-          <line>13</line>
+          <line>12</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -919,6 +918,7 @@
         <watch expression="dp" language="JAVA" />
         <watch expression="network" language="JAVA" />
         <watch expression="apart" language="JAVA" />
+        <watch expression="arr" language="JAVA" />
       </configuration>
     </watches-manager>
   </component>
